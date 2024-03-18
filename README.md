@@ -1,9 +1,9 @@
 
-  ![alt text]([http://url/to/img.png](https://freeimage.host/i/JX05VDv))
+<p align="center">
+  <img src="./Programmer.png" alt="Bildbeschreibung">
+</p>
 
-
-
-
+  
 👋🏻 Hi ich bin Marc, Front End Entwickler aus Leipzig. 
 
 <div id="badges">
