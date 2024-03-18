@@ -2,7 +2,7 @@
 <div align="center">
   <img src="./Programmer.png" alt="Bildbeschreibung" width="200">
   <br>
-  <p>👋🏻 Hi ich bin Marc, Front End Entwickler aus Leipzig.</p>
+  <p>👋🏻 Hi ich bin Marc, Front End Entwickler aus Halle (Saale)</p>
 </div>
 
 
