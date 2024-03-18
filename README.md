@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://freeimage.host/i/JX05VDv" alt="Bildbeschreibung">
+</p>
+
+
 👋🏻 Hi ich bin Marc, Front End Entwickler aus Leipzig. 
 
 <div id="badges">
