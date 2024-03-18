@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./Programmer.jpg" alt="Bildbeschreibung">
+  <img src="./Programmer.jpg" alt="Bildbeschreibung" width="200">
 </p>
 
   
