@@ -1,10 +1,10 @@
 
-<p align="center">
+<div align="center">
   <img src="./Programmer.png" alt="Bildbeschreibung" width="200">
-  <br/>
-<p>👋🏻 Hi ich bin Marc, Front End Entwickler aus Leipzig.</p>
+  <br>
+  <p>👋🏻 Hi ich bin Marc, Front End Entwickler aus Leipzig.</p>
+</div>
 
-</p>
 
   
 
