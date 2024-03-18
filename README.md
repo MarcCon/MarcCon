@@ -1,7 +1,7 @@
-<p align="center">
+
   ![alt text]([http://url/to/img.png](https://freeimage.host/i/JX05VDv))
 
-</p>
+
 
 
 👋🏻 Hi ich bin Marc, Front End Entwickler aus Leipzig. 
